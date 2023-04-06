@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Closet Control</string>
+    <string name="closet_screen">Closet</string>
+    <string name="category_screen">THIS WILL CHANGE DEPENDING ON CAT</string>
+</resources>
